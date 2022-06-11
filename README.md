@@ -1,7 +1,7 @@
 ### Sälem, Älem! :vulcan_salute:
 
 - 🔭 Working on Search Experience of [foodpanda][fp]
-- 🌱 Learning Reactive Programming
+- 🌱 Learning Search
 - 💬 Blogging on [dev.to][dev]
 
 :wq
